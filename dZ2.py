@@ -1,9 +1,9 @@
 
 
-# side1, side2 = map(float, input().split())
-# p = 2 * (side1 + side2) 
-# s = side1 * side2
-# print("Периметр =", p, "\n" "Площадь =", s)
+side1, side2 = map(float, input().split())
+p = 2 * (side1 + side2) 
+s = side1 * side2
+print("Периметр =", p, "\n" "Площадь =", s)
 
 
 
